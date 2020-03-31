@@ -1,0 +1,2 @@
+[0331/074141.082:ERROR:process_info.cc(359)] UncheckedAllocate
+[0331/075101.239:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\DMITRY~1\AppData\Local\Temp\scoped_dir27732_1832111341\Crashpad\reports\04fb84e7-8ca7-49c5-9d7d-aa9d157e49e2.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
